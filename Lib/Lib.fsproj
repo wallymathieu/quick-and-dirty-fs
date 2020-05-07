@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="FSharp.Data" Version="3.3.1" />
-    <PackageReference Include="FSharpPlus" Version="1.1.0-CI00272" />
+    <PackageReference Include="FSharpPlus" Version="1.1.0" />
     <PackageReference Include="Ply" Version="0.1.5" />
     <PackageReference Include="Fleece.NewtonsoftJson" Version="0.8.0-alpha-3" />
   </ItemGroup>
